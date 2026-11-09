@@ -1,0 +1,5 @@
+.card { border: 1px solid var(--color-border); border-radius: var(--radius); padding: var(--space-3); }
+.card-title { font-size: 1rem; margin-bottom: var(--space-2); }
+.data-table { width: 100%; border-collapse: collapse; }
+.data-table th, .data-table td { border-bottom: 1px solid var(--color-border); padding: var(--space-2); text-align: left; }
+.muted { color: var(--color-muted); }

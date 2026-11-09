@@ -1,0 +1,7 @@
+/* Shared component styles. Theme values come from tokens.css. */
+.pagination { display: flex; gap: var(--space-2); align-items: center; justify-content: flex-end; padding: var(--space-3) 0; }
+.pagination a { color: var(--color-accent); text-decoration: none; }
+.pagination-status { color: var(--color-muted); }
+.nav-list { display: flex; gap: var(--space-3); list-style: none; padding: 0; margin: 0; }
+.form { display: grid; gap: var(--space-2); max-width: 32rem; }
+.empty-state { border: 1px dashed var(--color-border); border-radius: var(--radius); padding: var(--space-5); text-align: center; }

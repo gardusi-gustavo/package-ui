@@ -1,0 +1,18 @@
+{
+  "rank": "2.3",
+  "title": "Adopt the kit in one dashboard",
+  "context": "No dashboard consumes package-ui yet.",
+  "limits": {
+    "max_commits": 5,
+    "max_file_changes": 4
+  },
+  "spec": {
+    "summary": "Wire one dashboard to the pinned UI bundle.",
+    "expected_outcome": "One dashboard proves the consumption path.",
+    "acceptance_criteria": [
+      "No JS is added",
+      "Theme overrides are local"
+    ]
+  },
+  "attempts": []
+}

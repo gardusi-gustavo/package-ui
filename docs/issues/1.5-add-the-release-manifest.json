@@ -1,0 +1,18 @@
+{
+  "rank": "1.5",
+  "title": "Add the release manifest",
+  "context": "Consumers need checksums.",
+  "limits": {
+    "max_commits": 5,
+    "max_file_changes": 4
+  },
+  "spec": {
+    "summary": "Build dist/ui.css and dist/manifest.json.",
+    "expected_outcome": "A tag produces a verifiable asset bundle.",
+    "acceptance_criteria": [
+      "Manifest has SHA256",
+      "Build is deterministic"
+    ]
+  },
+  "attempts": []
+}

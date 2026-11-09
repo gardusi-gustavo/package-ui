@@ -1,0 +1,18 @@
+{
+  "rank": "1.3",
+  "title": "Add navigation and form components",
+  "context": "Navigation and forms are missing.",
+  "limits": {
+    "max_commits": 5,
+    "max_file_changes": 4
+  },
+  "spec": {
+    "summary": "Add nav and form partials.",
+    "expected_outcome": "A dashboard can compose a page shell.",
+    "acceptance_criteria": [
+      "Nav is keyboard friendly",
+      "Form fields are labelled"
+    ]
+  },
+  "attempts": []
+}

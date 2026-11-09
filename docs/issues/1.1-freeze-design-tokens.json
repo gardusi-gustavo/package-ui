@@ -1,0 +1,18 @@
+{
+  "rank": "1.1",
+  "title": "Freeze design tokens",
+  "context": "The token set is the theme contract.",
+  "limits": {
+    "max_commits": 5,
+    "max_file_changes": 4
+  },
+  "spec": {
+    "summary": "Review tokens.css and document variables.",
+    "expected_outcome": "Dashboards can theme without touching components.",
+    "acceptance_criteria": [
+      "Tokens cover color, space, radius, font",
+      "Defaults are accessible"
+    ]
+  },
+  "attempts": []
+}

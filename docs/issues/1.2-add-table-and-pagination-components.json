@@ -1,0 +1,18 @@
+{
+  "rank": "1.2",
+  "title": "Add table and pagination components",
+  "context": "Tables and pagination need stable markup.",
+  "limits": {
+    "max_commits": 5,
+    "max_file_changes": 4
+  },
+  "spec": {
+    "summary": "Add table, pagination, and empty-state patterns.",
+    "expected_outcome": "A dashboard can render a paged table.",
+    "acceptance_criteria": [
+      "Markup is semantic",
+      "Styles use tokens"
+    ]
+  },
+  "attempts": []
+}

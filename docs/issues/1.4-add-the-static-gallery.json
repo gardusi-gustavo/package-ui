@@ -1,0 +1,18 @@
+{
+  "rank": "1.4",
+  "title": "Add the static gallery",
+  "context": "There is no visual reference.",
+  "limits": {
+    "max_commits": 5,
+    "max_file_changes": 4
+  },
+  "spec": {
+    "summary": "Build examples/index.html for every component.",
+    "expected_outcome": "A contributor can inspect all components.",
+    "acceptance_criteria": [
+      "Gallery is static",
+      "Gallery uses no JS"
+    ]
+  },
+  "attempts": []
+}

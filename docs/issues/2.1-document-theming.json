@@ -1,0 +1,18 @@
+{
+  "rank": "2.1",
+  "title": "Document theming",
+  "context": "The override contract is implicit.",
+  "limits": {
+    "max_commits": 5,
+    "max_file_changes": 4
+  },
+  "spec": {
+    "summary": "Write the theming guide.",
+    "expected_outcome": "A dashboard knows which variables to override.",
+    "acceptance_criteria": [
+      "Variables are listed",
+      "Example override exists"
+    ]
+  },
+  "attempts": []
+}

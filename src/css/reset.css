@@ -1,0 +1,6 @@
+*, *::before, *::after { box-sizing: border-box; }
+html, body, h1, h2, h3, p, ul, ol, figure { margin: 0; }
+html { -webkit-text-size-adjust: 100%; }
+body { min-height: 100vh; line-height: 1.5; }
+img, svg { display: block; max-width: 100%; }
+button, input, select, textarea { font: inherit; }

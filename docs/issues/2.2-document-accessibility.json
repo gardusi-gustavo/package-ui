@@ -1,0 +1,18 @@
+{
+  "rank": "2.2",
+  "title": "Document accessibility",
+  "context": "Component accessibility is not documented.",
+  "limits": {
+    "max_commits": 5,
+    "max_file_changes": 4
+  },
+  "spec": {
+    "summary": "Write the accessibility checklist.",
+    "expected_outcome": "A dashboard can audit its use of the kit.",
+    "acceptance_criteria": [
+      "Landmarks are covered",
+      "Focus states are covered"
+    ]
+  },
+  "attempts": []
+}
